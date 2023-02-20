@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmithakumar&label=Profile%20views&color=0e75b6&style=flat" alt="ashmithakumar" /> </p>
 
-- 🔭 I’m currently working on **building sales forecasting pipelines.**
+- 🔭 I’m currently working on **building sales forecasting pipeline.**
 
 - 🌱 I’m currently learning **Python Developement using popular ML frameworks.**
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **EDA, ML Algorithms.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ashmitha-kumar-5984b9202/**
+
+### <b> [Check my Resume Out](https://docs.google.com/document/d/1NFyAzP9bvrsH1ynN1Wr5IGKKlDmmBplwKD968kijG2s/edit?usp=sharing) </b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
