@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmithakumar&label=Profile%20views&color=0e75b6&style=flat" alt="ashmithakumar" /> </p>
 
-- 🔭 I’m currently working on **building sales forecasting pipeline.**
 
 - 🌱 I’m currently learning **Python Developement using popular ML frameworks.**
 
